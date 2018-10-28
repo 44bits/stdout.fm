@@ -1,0 +1,12 @@
+{% assign author = site.owner %}
+
+<div class="cover-card table-cell table-middle">
+  {% if author.avatar %}
+  <a href="{{ site.url }}/">
+    <img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar">
+  </a>
+  {% endif %}
+  <a href="{{ site.url }}/" class="author_name">{{ author.name }}</a>
+  <span class="author_bio mbm">{{ author.bio }}</span>
+  {% include social-links.html %}
+</div>
