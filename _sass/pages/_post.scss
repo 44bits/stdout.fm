@@ -115,6 +115,10 @@ a.read-more {
   }
 }
 
+.audio-player {
+  max-width: 600px;
+}
+
 .post-navigation {
   background-color: #f6f6f6;
   @include box-shadow;

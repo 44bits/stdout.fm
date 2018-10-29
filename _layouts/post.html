@@ -33,6 +33,22 @@ layout: default
   </header>
 
   <article class="post-content">
+    <div class="audio-player">
+      <audio 
+        src="{{ page.enclosure.url }}" 
+        class="mejs__player"
+        data-mejsoptions='
+          {
+            "features": ["playpause", "current", "progress", "duration", "tracks", "volume", "fullscreen", "speed"], 
+            "alwaysShowControls": "true", 
+            "audioWidth": "100%", 
+            "autoRewind": "false"
+          }
+        ' 
+        preload="none" 
+        controls="controls">
+      </audio>
+    </div>
     {{ content }}
   </article>
 </div>
