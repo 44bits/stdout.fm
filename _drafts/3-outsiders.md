@@ -1,0 +1,30 @@
+---
+layout: post
+title: "3 : GitHub Universe, HashiConf w/ @Outsideris"
+permalink: /3/
+contributors:
+  - name: 'outsider'
+    uri: 'https://twitter.com/outsideris'
+  - name: 'nacyot'
+    uri: 'https://twitter.com/nacyo_t'
+  - name: 'raccoonyy'
+    uri: 'https://twitter.com/raccoonyy'
+  - name: 'seapy'
+    uri: 'https://twitter.com/seapy'
+duration: "01:20:45"
+enclosure: 
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1541694060900.mp3
+  length: 116312412
+---
+
+outsider 님의 GitHub Universe, HashiConf 참석기
+
+- [GitHub Universe 2018 참석기 #1](https://blog.outsider.ne.kr/1407)
+- [GitHub Universe 2018 참석기 #2](https://blog.outsider.ne.kr/1408)
+- [HashiConf 2018 참석기 #1](https://blog.outsider.ne.kr/1409)
+- [HashiConf 2018 참석기 #2](https://blog.outsider.ne.kr/1410)
+- [outsider님이 묶었던 캡슐호텔 - 포드 룸 오패럴 스트리트 유니언 스퀘어](https://www.booking.com/hotel/us/pod-room-o-39-farrell-st-union-square.ko.html)
+- [GitHub Universe 행사장 - Palace of Fine Arts Theatre](https://www.google.com/maps/place/Palace+of+Fine+Arts+Theatre/@37.8029619,-122.4513816,17z/data=!3m1!4b1!4m5!3m4!1s0x808586d51696be45:0x92d8d1553a44df2c!8m2!3d37.8029577!4d-122.4491929)
+- [GitHub 사용 통계 Octoverse](https://octoverse.github.com/)
+- [HashiCorp Learn](https://learn.hashicorp.com/)
+- [Terraform Collaboration for Everyone](https://www.hashicorp.com/blog/terraform-collaboration-for-everyone)
