@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 : AWS DNS 장애, 클라우드, Notion.so"
-permalink: /4/
+permalink: /5/
 contributors:
   - name: 'nacyot'
     uri: 'https://twitter.com/nacyo_t'
@@ -9,17 +9,15 @@ contributors:
     uri: 'https://twitter.com/raccoonyy'
   - name: 'seapy'
     uri: 'https://twitter.com/seapy'
-# duration: "00:56:43"
-# enclosure: 
-#   url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1542463923473.mp3
-#   length: 81676886
+duration: "01:06:18"
+enclosure: 
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1543062777378.mp3
+  length: 95474144
 ---
 
 AWS DNS 장애, 클라우드, Notion.so
 
-참가자: [@seapy](https://twitter.com/seapy), [@raccoony](https://twitter.com/raccoonyy), [@nacyo_t](https://twitter.com/nacyo_t)
-
-* 팟빵 쿨게리 님, 후원 감사합니다!
+* 팟빵 쿨게리 님, 팟프리카 님 후원 감사합니다!
 * ['쿠팡 접속불가' 아마존웹서비스(AWS) 장애 때문](http://it.chosun.com/site/data/html_dir/2018/11/22/2018112200758.html) -조선일보
 * [Google Error Causes Widespread Internet Outage in Japan](https://www.bleepingcomputer.com/news/technology/google-error-causes-widespread-internet-outage-in-japan/)
 * [Single point of failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
@@ -31,7 +29,7 @@ AWS DNS 장애, 클라우드, Notion.so
 * [[단독] 대한항공, 대기업으론 첫 클라우드 서비스 쓴다](http://sbscnbc.sbs.co.kr/read.jsp?pmArticleId=10000725092) - SBS
 * [이스타항공 클라우드 탑승 완료…탈 데이터센터 신호탄되나](http://www.etnews.com/20180807000235) - 전자신문
 * [워드프레스 제트팩](https://wordpress.org/plugins/jetpack/)
-* [원데이 이모콘 X 노션보러오션](원데이 이모콘 X 노션보러오션)
+* [원데이 이모콘 X 노션보러오션](https://www.facebook.com/events/1933862736915765/)
 * [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f) - 당근마켓
 * [Bear's Shop](https://bear.app/store/)
 * [Notion.so](https://www.notion.so/)
