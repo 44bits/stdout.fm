@@ -41,4 +41,4 @@ AWS DNS 장애, 클라우드, Notion.so
 * [신세계·이마트 온라인 통합법인 내년 출범…1조 투자 유치 마무리 - 매일 경제](http://news.mk.co.kr/newsRead.php?sc=30000001&year=2018&no=681139)
 * [쿠팡, 2조2500억원 투자유치…사상 최대 규모 - 중앙일보](https://news.joins.com/article/23142086)
 * [The Entire Economy Is MoviePass Now. Enjoy It While You Can](https://www.nytimes.com/2018/05/16/technology/moviepass-economy-startups.html)
-* [삼성전자, 대졸공채에 '파이썬' 도입..."오픈소스로 생태계 선점"](http://www.asiae.co.kr/news/view.htm?idxno=2018111911582199902&mobile=Y) - 아시아 경제
+* [삼성전자, 대졸공채에 '파이썬' 도입..."오픈소스로 생태계 선점" - 아시아 경제](http://www.asiae.co.kr/news/view.htm?idxno=2018111911582199902&mobile=Y)
