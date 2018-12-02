@@ -28,7 +28,7 @@ KT 서울 서북부 통신 장애, AWS re:Invent 2018
 * [한경닷컴 - KT 화재로 경찰 내부통신도 ‘먹통’, "무전으로만 112지령 전달" 치안 공백 우려](http://news.hankyung.com/article/201811259842i)
 * [Chosunbiz - '2시간 반 장애' SKT, 730만명에 이틀치 요금 보상](http://biz.chosun.com/site/data/html_dir/2018/04/09/2018040900028.html)
 * ["1개월 요금 감면"…KT 화재, 첫번째 보상안 나왔다 - Chosunbiz > 테크 > ICT/미디어](http://biz.chosun.com/site/data/html_dir/2018/11/25/2018112501644.html)
-* [KT 화재로 119 신고도 ‘먹통’…70대 여성 사망 > 뉴스광장 1부 > 사회 > 뉴스 | KBSNEWS](http://news.kbs.co.kr/news/view.do?ncd=4082268&ref=A)
+* [KT 화재로 119 신고도 ‘먹통’…70대 여성 사망 > 뉴스광장 1부 > 사회 > 뉴스 - KBSNEWS](http://news.kbs.co.kr/news/view.do?ncd=4082268&ref=A)
 * [10년 제자리 중요통신시설 관리기준 “등급 재조정 시급”](http://www.ddaily.co.kr/news/article.html?no=175389)
 * [re:Invent 2018 Keynotes](https://reinvent.awsevents.com/learn/keynotes/)
   * 일: 미드나잇 매드네스(Midnight Madness)
