@@ -11,10 +11,10 @@ contributors:
     uri: 'https://twitter.com/seapy'
   - name: 'shia'
     uri: 'https://twitter.com/riseshia'
-# duration:
-# enclosure:
-#   url:
-#   length:
+duration: "01:17:01"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1543768077148.mp3
+  length: 110904821
 ---
 
 KT 서울 서북부 통신 장애, AWS re:Invent 2018
