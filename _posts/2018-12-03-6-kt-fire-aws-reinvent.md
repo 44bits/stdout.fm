@@ -45,7 +45,7 @@ KT 서울 서북부 통신 장애, AWS re:Invent 2018
 * [AWS Amazon Personalize](https://aws.amazon.com/ko/personalize/)
 * [AWS Marketplace: Machine Learning & Artificial Intelligence](https://aws.amazon.com/marketplace/solutions/machinelearning/)
 * [AWS Amazon Textract](https://aws.amazon.com/ko/textract/)
-* [쿡패드의 최근 마이크로서비 사례(일본어)](https://techlife.cookpad.com/entry/2016/03/16/100043)
+* [쿡패드의 최근 마이크로서비스 사례(일본어)](https://techlife.cookpad.com/entry/2016/03/16/100043)
 * [Amazon Route 53 자동 이름 지정, 5개의 추가 리전에서 사용 가능](https://aws.amazon.com/ko/about-aws/whats-new/2018/09/amazon-route-53-auto-naming-available-in-five-additional-AWS-regions/)
 * [Cloud Map - Service discovery for cloud resources](https://aws.amazon.com/ko/cloud-map/)
 * [AWS App Mesh - Monitor and Control Microservices - Amazon Web Services](https://aws.amazon.com/ko/app-mesh/)
