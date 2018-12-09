@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "7 : AWS re:Invent 2018 (2), Japan Container Days v18.12
+title: "7 : AWS re:Invent 2018 (2), Japan Container Days v18.12"
 permalink: /7/
 contributors:
   - name: 'nacyot'
     uri: 'https://twitter.com/nacyo_t'
   - name: 'seapy'
     uri: 'https://twitter.com/seapy'
-# duration:
-# enclosure:
-#   url: 
-#   length: 
+duration: "01:03:37"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1544365500651.mp3 
+  length: 91627030
 ---
 
 AWS re:Invent 2018 (2), Japan Container Days v18.12
@@ -39,7 +39,7 @@ AWS re:Invent 2018 (2), Japan Container Days v18.12
 * [opencontainers/runtime-spec: OCI Runtime Specification](https://github.com/opencontainers/runtime-spec)
 * [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
 * [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd)
-* [AWS Launchpad - Firecracker is now Open Source](http://newsvideo.su/tech/video/275787)
+* [AWS Launchpad - Firecracker is now Open Source](https://www.youtube.com/watch?v=DrrvPqX_Qr8)
 * [Kata Containers - The speed of containers, the security of VMs](https://katacontainers.io/)
 * [Nabla containers: a new approach to container isolation · Nabla Containers](https://nabla-containers.github.io/)
 * [CRI: the Container Runtime Interface](https://github.com/kubernetes/kubernetes/blob/242a97307b34076d5d8f5bbeb154fa4d97c9ef1d/docs/devel/container-runtime-interface.md)
