@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7 : AWS re:Invent 2018 (2), Japan Container Days v18.12"
+title: "stdout_007.log: AWS re:Invent 2018 두번째, Japan Container Days v18.12"
 permalink: /7/
 contributors:
   - name: 'nacyot'
@@ -13,7 +13,12 @@ enclosure:
   length: 91627030
 ---
 
-AWS re:Invent 2018 (2), Japan Container Days v18.12
+* 참가자: [@seapy][sea], [@nacyo_t][nac]
+
+[sea]: https://twitter.com/seapy
+[nac]: https://twitter.com/raccoonyy
+
+AWS re:Invent 2018 두번째, Japan Container Days v18.12
 
 * [AWS re:Invent 2018 \| Amazon Web Services](https://reinvent.awsevents.com/)
 * [AWS Whats new - AWS Lambda Supports Ruby](https://aws.amazon.com/ko/about-aws/whats-new/2018/11/aws-lambda-supports-ruby/)
