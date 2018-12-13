@@ -15,7 +15,7 @@ enclosure:
   length: 89283488
 ---
 
-여덟 번째 에피소드의 번외편입니다. 본편 녹음을 끝내고 [@j2p][j2p] 님을 모시고 rebuild.fm, 글쓰기 도구, 44bits.io에 대해서 이야기를 나눴습니다.
+여덟 번째 에피소드의 번외편입니다. 본편 녹음을 끝내고 [@j2p][j2p] 님을 모시고 rebuild.fm, Plagger, 글쓰기 도구, 44bits.io에 대해서 이야기를 나눴습니다.
 
 * 게스트: [@j2p_][j2p]
 * 참가자: [@seapy][sea], [@nacyo_t][nac]
@@ -26,6 +26,7 @@ enclosure:
 
 * [(일본어) rebuild.fm의 통계학 - Speaker Deck](https://speakerdeck.com/ikedaosushi/rebuild-dot-fmfalsetong-ji-xue)
 * [miyagawa/plagger: Pluggable RSS/Atom aggregator](https://github.com/miyagawa/plagger)
+* [(일본어) Google에서「배고파」라고 검색하면 피자가 배달되도록 만들기까지](http://e8y.net/blog/2006/07/25/p126.html)
 * [(일본어) 그거Plagger로할수있어 - 하테나 다이어리](http://d.hatena.ne.jp/keyword/%A4%BD%A4%ECPlagger%A4%C7%A4%C7%A4%AD%A4%EB%A4%E8)
 * [Seapy's Blog](http://seapy.com/)
 * [Welcome to TextBundle.org!](http://textbundle.org/)
