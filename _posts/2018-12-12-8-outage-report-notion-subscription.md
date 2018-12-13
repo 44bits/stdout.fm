@@ -38,7 +38,7 @@ enclosure:
 - [노션 가이드 한국어 번역본](https://www.notion.so/haebom/Notion-1ad7ccbc41a44298814a4820d4acb14e)
 - [당근마켓과 함께 할 개발자를 찾고 있어요!](https://www.notion.so/daangn/07ca1fda22584d60a48ef43a8cf9bab0)
 - [The new Gutenberg editing experience](https://wordpress.org/gutenberg/)
-- [Publish | Day One](https://dayoneapp.com/publish/)
+- [Publish \| Day One](https://dayoneapp.com/publish/)
 - [스크리브너(Scrivener) 한국어 튜토리얼 가이드 개정판 :: Back to the Mac 블로그](http://macnews.tistory.com/2494)
 * [Bear - Notes for iPhone, iPad and Mac](https://bear.app/)
 * [Ulysses](https://ulysses.app/)
