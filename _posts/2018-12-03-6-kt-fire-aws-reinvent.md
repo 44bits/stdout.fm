@@ -17,14 +17,14 @@ enclosure:
   length: 110904821
 ---
 
+여섯 번째 에피소드에서는 KT 서울 서북부 통신 장애, AWS re:Invent 2018 이야기를 했습니다.
+
 * 게스트: [@riseshia](https://twitter.com/riseshia)
 * 참가자: [@seapy][sea], [@raccoonyy][rac], [@nacyo_t][nac]
 
 [sea]: https://twitter.com/seapy
-[rac]: https://twitter.com/nacyo_t
-[nac]: https://twitter.com/raccoonyy
-
-KT 서울 서북부 통신 장애, AWS re:Invent 2018
+[rac]: https://twitter.com/raccoonyy
+[nac]: https://twitter.com/nacyo_t
 
 * [조선닷컴 - 회원이 올린 요리법 210만건… 재가공해 1조원 기업으로(쿡패드 소개 기사, 2015)](http://news.chosun.com/site/data/html_dir/2015/09/25/2015092500305.html)
 * [한경닷컴 - 통신관 79m 화재에 마비된 서울 도심…백업 없는 '초연결사회'](http://news.hankyung.com/article/2018112507221)

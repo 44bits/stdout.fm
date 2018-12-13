@@ -15,13 +15,13 @@ enclosure:
   length: 95474144
 ---
 
+다섯 번째 에피소드에서는 AWS 서울 리전의 DNS 장애, 클라우드, 원데이 이모콘 노션보러오션에 대해서 이야기를 했습니다. 
+
 * 참가자: [@seapy][sea], [@raccoonyy][rac], [@nacyo_t][nac]
 
 [sea]: https://twitter.com/seapy
-[rac]: https://twitter.com/nacyo_t
-[nac]: https://twitter.com/raccoonyy
-
-AWS DNS 장애, 클라우드, 원데이 이모콘 노션보러오션
+[rac]: https://twitter.com/raccoonyy
+[nac]: https://twitter.com/nacyo_t
 
 * 팟빵 쿨게리 님, 팟프리카 님 후원 감사합니다!
 * ['쿠팡 접속불가' 아마존웹서비스(AWS) 장애 때문](http://it.chosun.com/site/data/html_dir/2018/11/22/2018112200758.html) -조선일보

@@ -15,14 +15,14 @@ enclosure:
   length: 89283488
 ---
 
+여덟 번째 에피소드의 번외편입니다. 본편 녹음을 끝내고 [@j2p][j2p] 님을 모시고 rebuild.fm, 글쓰기 도구, 44bits.io에 대해서 이야기를 나눴습니다.
+
 * 게스트: [@j2p_][j2p]
 * 참가자: [@seapy][sea], [@nacyo_t][nac]
 
 [sea]: https://twitter.com/seapy
-[nac]: https://twitter.com/raccoonyy
+[nac]: https://twitter.com/nacyo_t
 [j2p]: https://twitter.com/j2p_
-
-부록: Our 44bits.io
 
 * [(일본어) rebuild.fm의 통계학 - Speaker Deck](https://speakerdeck.com/ikedaosushi/rebuild-dot-fmfalsetong-ji-xue)
 * [miyagawa/plagger: Pluggable RSS/Atom aggregator](https://github.com/miyagawa/plagger)

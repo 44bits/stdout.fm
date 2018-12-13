@@ -13,12 +13,12 @@ enclosure:
   length: 91627030
 ---
 
+일곱 번째 에피소드에서는 지난 에피소드에서 다 하지 못 한 AWS re:Invent 2018 이야기와 Japan Container Days v18.12에 대해서 이야기를 했습니다.
+
 * 참가자: [@seapy][sea], [@nacyo_t][nac]
 
 [sea]: https://twitter.com/seapy
-[nac]: https://twitter.com/raccoonyy
-
-AWS re:Invent 2018 두번째, Japan Container Days v18.12
+[nac]: https://twitter.com/nacyo_t
 
 * [AWS re:Invent 2018 \| Amazon Web Services](https://reinvent.awsevents.com/)
 * [AWS Whats new - AWS Lambda Supports Ruby](https://aws.amazon.com/ko/about-aws/whats-new/2018/11/aws-lambda-supports-ruby/)

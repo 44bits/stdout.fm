@@ -15,13 +15,13 @@ enclosure:
   length: 89692060
 ---
 
+여덟 번째 에피소드에서는 장애 리포트, AWS / KT 장애 후속 조치, Notion.so 가이드, 앱 구독 모델에 대해서 이야기를 했습니다.
+
 * 참가자: [@seapy][sea], [@raccoonyy][rac], [@nacyo_t][nac]
 
 [sea]: https://twitter.com/seapy
-[rac]: https://twitter.com/nacyo_t
-[nac]: https://twitter.com/raccoonyy
-
-장애 리포트, Notion.so, 구독 지옥
+[rac]: https://twitter.com/raccoonyy
+[nac]: https://twitter.com/nacyo_t
 
 - [SRE WEEKLY – scalability, availability, incident response, automation](https://sreweekly.com/)
 - [Outage.Report](https://outage.report/)
