@@ -9,6 +9,10 @@ contributors:
     uri: 'https://twitter.com/j2p_'
   - name: 'seapy'
     uri: 'https://twitter.com/seapy'
+duration: "01:02:00"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1544681020862.mp3
+  length: 89283488
 ---
 
 * 게스트: [@j2p_][j2p]

@@ -9,6 +9,10 @@ contributors:
     uri: 'https://twitter.com/raccoonyy'
   - name: 'seapy'
     uri: 'https://twitter.com/seapy'
+duration: "01:02:17"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1544680917823.mp3
+  length: 89692060
 ---
 
 * 참가자: [@seapy][sea], [@raccoonyy][rac], [@nacyo_t][nac]
