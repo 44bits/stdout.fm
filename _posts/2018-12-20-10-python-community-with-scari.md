@@ -11,6 +11,10 @@ contributors:
     uri: 'https://twitter.com/raccoonyy'
   - name: 'scarinet'
     uri: 'https://twitter.com/scari_net'
+duration: "01:01:41"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1545379626311.mp3
+  length: 88841116
 ---
 
 스카리 님을 모시고 PEP 572, 귀도 반 로섬 BDFL 은퇴, 귀도 반 로섬 이후의 파이썬 커뮤니티(PEP 8000-8016), 파이콘, Python Software Foundation 등에 대해서 이야기를 나눴습니다.
