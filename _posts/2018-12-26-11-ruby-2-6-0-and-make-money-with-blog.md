@@ -9,6 +9,10 @@ contributors:
     uri: 'https://twitter.com/seapy'
   - name: 'raccoonyy'
     uri: 'https://twitter.com/raccoonyy'
+duration: "01:14:44"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1545863454237.mp3
+  length: 107632298
 ---
 
 루비 2.6 릴리즈 소식을 전합니다. 이어서 블로그로 돈 못 버는 세 블로거가 컨텐츠로 돈 버는 이야기를 했습니다.
