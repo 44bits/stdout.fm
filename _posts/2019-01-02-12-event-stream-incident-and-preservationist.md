@@ -11,9 +11,10 @@ contributors:
     uri: 'https://twitter.com/raccoonyy'
   - name: 'outsider'
     uri: 'https://twitter.com/outsideris'
-
-# duration:
-# enclosure:
+duration: "01:03:37"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1546485904003.mp3
+  length: 91615388
 ---
 
 stdout.fm 11번째 로그에서는 아웃사이더 님을 모시고, Node.js event-stream 악성 코드 주입 사건, 컨텐츠 보존 주의, 정적 웹사이트 생성기에 대해성 이야기를 나눴습니다.
