@@ -11,6 +11,10 @@ contributors:
     uri: 'https://twitter.com/raccoonyy'
   - name: 'ecleya'
     uri: 'https://twitter.com/ecleya'
+duration: "01:01:49"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1546485904003.mp3
+  length: 89036644
 ---
 
 stdout.fm 12번째 로그에서는 Seocho.rb, GitHub 새로운 가격 정책, AWS Fargate 가격 인하, AWS VPC 등에 대해서 이야기를 나눴습니다.
