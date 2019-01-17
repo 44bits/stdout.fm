@@ -9,6 +9,10 @@ contributors:
     uri: 'https://twitter.com/seapy'
   - name: 'raccoonyy'
     uri: 'https://twitter.com/raccoonyy'
+duration: "01:03:14"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1547648624773.mp3
+  length: 91059956
 ---
 
 stdout.fm 13번째 로그에서는 Read the Docs, Write the Docs, 도커를 사용하는 이유에 대해서 이야기를 나눴습니다.
@@ -37,7 +41,8 @@ stdout.fm 13번째 로그에서는 Read the Docs, Write the Docs, 도커를 사�
 * [왜 굳이 도커(컨테이너)를 써야 하나요? - 컨테이너를 사용해야 하는 이유 \| 44bits.io](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 * [Docker (Compose) 활용법 - 개발 환경 구성하기](https://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
 * [Docker 1.3: signed images, process injection, security options, Mac shared directories - Docker Blog](https://blog.docker.com/2014/10/docker-1-3-signed-images-process-injection-security-options-mac-shared-directories/)
-* [DEVIEW 2014 - Docker로 보는 클라우드 서버 운영의 미래 ](https://deview.kr/2014/session?seq=20)
+* [DEVIEW 2014 - Docker로 보는 클라우드 서버 운영의 미래](https://deview.kr/2014/session?seq=20)
+* [DEVIEW 2013 - 이렇게 배포해야 할까? - Lightweight Linux Container Docker 를 활용하여 어플리케이션 배포하기](https://deview.kr/2013/detail.nhn?topicSeq=45)
 * [Production-Grade Container Orchestration - Kubernetes](https://kubernetes.io/)
 * [AWS Fargate – 서버 또는 클러스터를 관리할 필요 없이 컨테이너를 실행](https://aws.amazon.com/ko/fargate/)
 * [Cloud Application Platform \| Heroku](https://www.heroku.com/)
@@ -48,7 +53,7 @@ stdout.fm 13번째 로그에서는 Read the Docs, Write the Docs, 도커를 사�
 * [whining - Ruby evolution is taking TOO long : ruby](https://www.reddit.com/r/ruby/comments/ad46f9/whining_ruby_evolution_is_taking_too_long/)
 * [Rubyのまつもと氏、「気分を害することもある。だからどうか建設的であってほしい」 － Publickey](https://www.publickey1.jp/blog/19/ruby_2.html)
 * [Feature #6284: Add composition for procs - Ruby trunk - Ruby Issue Tracking System](https://bugs.ruby-lang.org/issues/6284)
-* ([Yukihiro Matsumoto on Twitter: "20+ years ago, ..."](https://twitter.com/yukihiro_matz/status/1082418360501948416)
+* [Yukihiro Matsumoto on Twitter: "20+ years ago, ..."](https://twitter.com/yukihiro_matz/status/1082418360501948416)
 * [Younggun Kim on Twitter: "이유가 무엇이든 ..."](https://twitter.com/scari_net/status/1084747250150993920)
 * [Publickey on Twitter: "ありがとうございます。..."](https://twitter.com/publickey/status/1083282277142999040)
 * [Ruby is dead \| A totally legit site based on science](https://rubyisdead.science/)
