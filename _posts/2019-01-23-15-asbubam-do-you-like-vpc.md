@@ -38,7 +38,6 @@ stdout.fm 14번째 로그에서는 법사님(@asbubam)을 모시고 VPC, 블로�
 [AWS NAT Gateway에서 NAT instance로 전환하기 by asbubam](https://blog.2dal.com/2018/12/31/nat-gateway-to-nat-instance/)
 [asbubam 이력서 - 슬라이드 셰어](https://www.slideshare.net/SeungWooLee2/20130416)
 [발표의 정석 by 하용호](https://t.co/DxXKMjrVRT)
-
 [프로그래밍 루비 - 곡괭이책](https://blog.insightbook.co.kr/book/programming-insight/프로그래밍-루비-개정판/)
 [인프런](https://www.inflearn.com/)
 [44bits.tv](https://44bits.tv)
