@@ -44,4 +44,4 @@ stdout.fm 14번째 로그에서는 법사님(@asbubam)을 모시고 VPC, 블로�
 * [MSDN](https://msdn.microsoft.com/)
 * [코딩의 신 아샬 - 유튜브](https://www.youtube.com/channel/UCLLncfeIYljE0o_yUw7MkcA)
 * [크리스토퍼 올라](http://colah.github.io)
-* [distill.pub](https://distill.pub/)
+* [Distill — Latest articles about machine learning](https://distill.pub/)
