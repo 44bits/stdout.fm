@@ -29,7 +29,7 @@ stdout.fm 14번째 로그에서는 법사님(@asbubam)을 모시고 VPC, 블로�
 * [AWS VPC basic by asbubam](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
 * [그림으로 배우는 클라우드 인프라와 API - 신상재 번역](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=109486799)
 * [홈랩 homelab](https://www.reddit.com/r/homelab/)
-* [AWS rate limit 로드밸런서](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html#limits_elastic_load_balancer)
+* [AWS Service Limits - Elastic Load Balancing Limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html#limits_elastic_load_balancer)
 * [Parameter Store](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-paramstore.html)
 * [Patemeter Store - ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/specifying-sensitive-data.html)
 * [Transit Gateway](https://aws.amazon.com/transit-gateway/)
