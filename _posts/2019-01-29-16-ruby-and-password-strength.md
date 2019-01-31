@@ -9,6 +9,10 @@ contributors:
     uri: 'https://twitter.com/seapy'
   - name: 'raccoonyy'
     uri: 'https://twitter.com/raccoonyy'
+duration: "01:06:31"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1548862704872.mp3
+  length: 95805957
 ---
 
 stdout.fm 15번째 로그에서는Seocho.rb 첫 번째 모임, AWS 람다를 사용한 이미지 변환, 안전한 패스워드 관리, 1Password 등에   대해서 이야기를 나눴습니다.
@@ -36,7 +40,7 @@ stdout.fm 15번째 로그에서는Seocho.rb 첫 번째 모임, AWS 람다를 사
 * [Home \| Google Summer of Code](https://summerofcode.withgoogle.com/)
 * [ZZERJAE – Devlog](https://zzerjae.github.io/)
 * [Planet Hackathon 2018 by GDG x 9XD  - Goree](https://goree.io/events/3)
-* [HackerX](a)
+* [HackerX](https://hackerx.org/)
 * [Accept HTTP 요청 헤더 \| MDN](https://developer.mozilla.org/ko/docs/Web/HTTP/Headers/Accept)
 * [AWS Summit 2019 커뮤니티 트랙 발표 신청](https://docs.google.com/forms/d/e/1FAIpQLSdDQWz_f3GrgJafrks8P04H0NqokdeS53Da1cMSee02xeavBQ/viewform)
 * [The Worst Passwords of 2018 100-50 \| SplashData](https://www.teamsid.com/100-worst-passwords-top-50/)
