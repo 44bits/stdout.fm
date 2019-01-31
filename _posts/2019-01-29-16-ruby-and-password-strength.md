@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stdout_015.log: 안전한 패스워드 관리, 람다 기반 썸네일 생성, Seocho.rb 첫 번재 모임"
+title: "stdout_015.log: 안전한 패스워드 관리, 람다 기반 썸네일 생성, Seocho.rb 첫 번째 모임"
 permalink: /15/
 contributors:
   - name: 'nacyot'
