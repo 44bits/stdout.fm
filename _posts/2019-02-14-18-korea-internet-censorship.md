@@ -10,6 +10,10 @@ contributors:
   - name: 'raccoonyy'
     uri: 'https://twitter.com/raccoonyy'
   - name: 'han'
+duration: "01:25:23"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1550157091033.mp3
+  length: 122959020
 ---
 
 stdout.fm 16번째 로그에서는 han 님과 함께 정부의 SNI 기반 인터넷 접속 차단, 아이폰 앱의 무단 화면 촬영, CamelCamelCamel 다운에 대해서 이야기했습니다.
