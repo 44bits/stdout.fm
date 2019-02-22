@@ -9,7 +9,10 @@ contributors:
     uri: 'https://twitter.com/seapy'
   - name: 'raccoonyy'
     uri: 'https://twitter.com/raccoonyy'
-  - name: 'han'
+duration: "01:03:14"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1550824530043.mp3
+  length: 91085864
 ---
 
 stdout.fm 17번째 로그에서는 제로 레이팅, 팟빵과 팟캐스트에 대해서 이야기를 나눴습니다.
@@ -21,8 +24,8 @@ stdout.fm 17번째 로그에서는 제로 레이팅, 팟빵과 팟캐스트에 �
 [nac]: https://twitter.com/nacyo_t
 
 * [오늘밤 김제동 - 83회 풀영상 2019.02.14 - YouTube](https://www.youtube.com/watch?v=CCOvWtpjWlQ)
-* 시피 녹음기
 * [한빛출판네트워크 \| 대관 서비스](https://www.hanbit.co.kr/rent/facilities.html)
+* [ICD-UX544F Digital Voice Recorder - Amazon.co.jp](https://www.amazon.co.jp/SONY-%E3%82%B9%E3%83%86%E3%83%AC%E3%82%AAIC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC-FM%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E4%BB%98-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-ICD-UX544F/dp/B00FMM6QKY)
 * [TX650 Digital Voice Recorder TX Series \| ICD-TX650 \| Sony MA](https://www.sony.com/en-ma/electronics/voice-recorders/icd-tx650)
 * [Blue - Yeti](https://www.bluedesigns.com/products/yeti/)
 * [Apple Podcat内のTatsuhiko Miyagawa 「Rebuild」](https://itunes.apple.com/jp/podcast/rebuild/id603013428?mt=2)
