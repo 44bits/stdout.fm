@@ -9,6 +9,10 @@ contributors:
     uri: 'https://twitter.com/seapy'
   - name: 'raccoonyy'
     uri: 'https://twitter.com/raccoonyy'
+duration: "01:08:04"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1551366588981.mp3
+  length: 98031212
 ---
 
 stdout.fm 18번째 로그에서는 .dev 도메인, 랭킹 시각화, 개발자 설문 조사에 대해서 이야기를 나눴습니다.
