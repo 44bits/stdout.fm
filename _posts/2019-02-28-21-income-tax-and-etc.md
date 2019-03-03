@@ -7,6 +7,10 @@ contributors:
     uri: 'https://twitter.com/nacyo_t'
   - name: 'raccoonyy'
     uri: 'https://twitter.com/raccoonyy'
+duration: "00:35:51"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1551581630648.mp3
+  length: 51631557
 ---
 
 stdout.fm 18번째 에러 로그에서는 연말 정산, 스타트렉: 디스커버리, 오티스의 비밀 상담소, 더 이상 숨을 곳이 없다 등에 대해서 이야기를 나눴습니다.
