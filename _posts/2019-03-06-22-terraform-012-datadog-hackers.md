@@ -9,6 +9,10 @@ contributors:
     uri: 'https://twitter.com/seapy'
   - name: 'raccoonyy'
     uri: 'https://twitter.com/raccoonyy'
+duration: "00:50:03"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1551879695922.mp3
+  length: 72088254
 ---
 
 stdout.fm 19번째 로그에서는 테라폼 0.12 베타, 데이터독 APM, 엘라스틱 APM, 해커스 크라우드 펀딩에 대해서 이야기를 나눴습니다.
