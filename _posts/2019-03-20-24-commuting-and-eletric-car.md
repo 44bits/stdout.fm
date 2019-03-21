@@ -7,6 +7,10 @@ contributors:
     uri: 'https://twitter.com/seapy'
   - name: 'raccoonyy'
     uri: 'https://twitter.com/raccoonyy'
+duration: "00:41:30"
+enclosure:
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1553091458215.mp3
+  length: 59759292
 ---
 
 stdout.fm 21번째 로그에서는 출퇴근, 애플 신제품 출시, 구글 Stedia 발표에 대해서 이야기를 나눴습니다.
