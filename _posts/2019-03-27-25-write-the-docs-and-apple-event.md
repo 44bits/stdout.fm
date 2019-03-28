@@ -9,11 +9,11 @@ contributors:
     uri: 'https://twitter.com/seapy'
   - name: 'raccoonyy'
     uri: 'https://twitter.com/raccoonyy'
-  - name: 'ecleya
+  - name: 'ecleya'
     uri: 'https://twitter.com/ecleya'
 duration: "01:06:22"
 enclosure:
-  url:https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1553696507127.mp3
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1553696507127.mp3
   length: 95594150
 ---
 
