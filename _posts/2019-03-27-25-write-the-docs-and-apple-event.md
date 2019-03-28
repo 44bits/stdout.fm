@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stdout_22.log: Write the Docs 후기, 2019년 3월 애플 키노트 이벤트, 파이어폭스 멀티 계정컨테이너"
+title: "stdout_22.log: Write the Docs 후기, 2019년 3월 애플 키노트 이벤트, 파이어폭스 멀티 계정 컨테이너"
 permalink: /22/
 contributors:
   - name: 'nacyot'
@@ -17,7 +17,7 @@ enclosure:
   length: 95594150
 ---
 
-stdout.fm 22번째 로그에서는 Write the Docs 후기, 애플 이벤트(애플 TV+, 애플 카드 등), 파이어폭스 멀티 컨테이너에 대해서 이야기를 나눴습니다.
+stdout.fm 22번째 로그에서는 Write the Docs 후기, 애플 이벤트(애플 TV+, 애플 카드 등), 파이어폭스 계정 멀티 컨테이너에 대해서 이야기를 나눴습니다.
 
 * 참가자: [@seapy][sea], [@raccoonyy][rac], [@nacyo_t][nac]
 * 게스트: [@ecleya][ecl](후얌얌)
