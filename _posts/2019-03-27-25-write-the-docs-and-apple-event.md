@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stdout_22.log: Write the Docs 후기, 2019년 3월 애플 키노트 이벤트, 파이어폭스 멀티 계정 컨테이너"
+title: "stdout_22.log: Write the Docs 후기, 2019년 3월 애플 키노트 이벤트, 파이어폭스 멀티 계정 컨테이너 w/ ecleya"
 permalink: /22/
 contributors:
   - name: 'nacyot'
