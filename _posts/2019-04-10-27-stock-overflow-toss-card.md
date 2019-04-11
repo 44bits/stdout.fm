@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stdout_24.log: 맥북, 스택 오버플로우, 토스 카드"
+title: "stdout_24.log: 맥북, 스택 오버플로우, 토스 카드 /w ecleya"
 permalink: /24/
 contributors:
   - name: 'seapy'
