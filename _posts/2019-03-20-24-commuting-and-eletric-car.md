@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stdout_21.log: 출퇴근 이야기, 애플 신제품 출시, 구글 Stedia 발표"
+title: "stdout_21.log: 출퇴근 이야기, 애플 신제품 출시, 구글 Stadia 발표"
 permalink: /21/
 contributors:
   - name: 'seapy'
@@ -13,7 +13,7 @@ enclosure:
   length: 59759292
 ---
 
-stdout.fm 21번째 로그에서는 출퇴근, 애플 신제품 출시, 구글 Stedia 발표에 대해서 이야기를 나눴습니다.
+stdout.fm 21번째 로그에서는 출퇴근, 애플 신제품 출시, 구글 Stadia 발표에 대해서 이야기를 나눴습니다.
 
 * 참가자: [@seapy][sea], [@raccoonyy][rac]
 
