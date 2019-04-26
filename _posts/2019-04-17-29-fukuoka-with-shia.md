@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stdout_026.log: 루비 카이기 2019, 쿡패드, 일본 개발 커뮤니티 /w shia"
+title: "stdout_026.log: 루비 카이기 2019, 쿡패드, 일본 개발 커뮤니티 w/ shia"
 permalink: /26/
 contributors:
   - name: 'seapy'

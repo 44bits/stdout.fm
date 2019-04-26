@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stdout_025.log: ICT 업계, 마켓컬리, 주니어 채용 /w chiyodad, ecleya"
+title: "stdout_025.log: ICT 업계, 마켓컬리, 주니어 채용 w/ chiyodad, ecleya"
 permalink: /25/
 contributors:
   - name: 'seapy'
@@ -38,7 +38,7 @@ stdout.fm 25번째 로그에서는 ICT 업계, 마켓컬리, 주니어 채용에
 * [국제회계기준 - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C%ED%9A%8C%EA%B3%84%EA%B8%B0%EC%A4%80)
 * [ABAP - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/ABAP)
 * [Oracle Forms](https://www.oracle.com/technetwork/developer-tools/forms/overview/index.html)
-* [이상한모임](https://www.weirdx.io/)	
+* [이상한모임](https://www.weirdx.io/)
 * [마켓컬리 :: 내일의 장보기, 마켓컬리](https://www.kurly.com/shop/main/index.php)
 * [창고 관리 시스템 - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%EC%B0%BD%EA%B3%A0_%EA%B4%80%EB%A6%AC_%EC%8B%9C%EC%8A%A4%ED%85%9C)
 * [후배 개발자에게 - 2019년](https://brunch.co.kr/@javajigi/4)
@@ -66,7 +66,7 @@ stdout.fm 25번째 로그에서는 ICT 업계, 마켓컬리, 주니어 채용에
 * [검색결과: 이유식 :: 내일의 장보기, 마켓컬리](http://www.kurly.com/shop/goods/goods_search.php?searched=Y&log=1&skey=all&hid_pr_text=&hid_link_url=&edit=Y&sword=%C0%CC%C0%AF%BD%C4&x=0&y=0)
 * [AWS Summit 서울 행사가 시작됩니다! - 2019년 4월 17일-18일](https://aws.amazon.com/ko/events/aws-summit-is-coming/)
 * [DEVIEW 2018](https://deview.kr/2018)
-* [컬리 신사사옥](http://naver.me/Gd5kjglo) 
+* [컬리 신사사옥](http://naver.me/Gd5kjglo)
 * [카카오 T \| 카카오](https://www.kakaocorp.com/service/KakaoT)
 * [주식회사 모두의캠퍼스(모두의캠퍼스) 기업, 채용, 투자, 뉴스 - 로켓펀치](https://www.rocketpunch.com/companies/jusighoesa-yunibeubug)
 * [신입개발자가 스타트업에서 AWS로 어떻게든 살아가는 썰](https://www.slideshare.net/ssuser67b08e/aws-112573762)
