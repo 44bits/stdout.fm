@@ -53,7 +53,7 @@ stdout.fm 27번째 에러 로그에서는 NDC, 뉴스레터, 해커스 크라우
 * [Twitter Moves to 'News' Category in App Store to Boost Visibility - MacRumors](https://www.macrumors.com/2016/04/29/twitter-news-category-app-store-visibility/)
 * [스넥(SNEK) - 나만의 투자 정보](https://www.snek.ai/home#economy)
 * [Julian Assange: Wikileaks co-founder arrested in London - BBC News](https://www.bbc.com/news/uk-47891737)
-* [세 번 절판하고 네 번째 <hackers>를 준비 하기 :: 텀블벅](https://www.tumblbug.com/hackers)
+* [세 번 절판하고 네 번째 hackers를 준비 하기 :: 텀블벅](https://www.tumblbug.com/hackers)
 * [INSIGHTBOOK on Twitter: "내심 한빛이 그냥 절판하길 바랐는데... ㅎㅎ" / Twitter](https://twitter.com/insightbook/status/1120574636603744256)
 * [해커 그 광기와 비밀의 기록 - YES24](http://www.yes24.com/Product/Goods/2256?scode=032&OzSrank=1)
 * [Amazon.com: Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor (9780887305108): Seth A. Klarman: Gateway](https://www.amazon.com/Margin-Safety-Risk-Averse-Strategies-Thoughtful/dp/0887305105/ref=sr_1_1?keywords=safety+margin&qid=1556494819&s=gateway&sr=8-1)
