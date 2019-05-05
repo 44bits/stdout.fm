@@ -1,0 +1,42 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}/</link>
+    <atom:link href="{{ "/feed" | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <media:thumbnail url="{{ "/img/logo_big.png" | prepend: site.url }}" />
+    <media:keywords>{{ site.keywords | join: "," }}</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <itunes:author>{{ site.owner.name }}</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="{{ "/img/logo_big.png" | prepend: site.url }}" />
+    <itunes:keywords>{{ site.keywords | join: "," }}</itunes:keywords>
+    <itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
+    <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>{{ site.owner.name }}</itunes:name>
+      <itunes:email>{{ site.owner.email }}</itunes:email>
+    </itunes:owner>
+    <language>ko</language>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {%- for post in site.posts %}
+    {%- if post.social.facebook != nil %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <description>{{ post.social.facebook | xml_escape }}</description>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <link>{{ post.url | prepend: site.url }}</link>
+      <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+      <dc:creator>{{ site.owner.name }}</dc:creator>
+    </item>
+    {%- endif %}
+    {%- endfor %}
+  </channel>
+</rss>
