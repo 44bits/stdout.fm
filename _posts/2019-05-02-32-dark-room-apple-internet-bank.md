@@ -27,6 +27,8 @@ stdout.fm 28번째 로그에서는 다크룸, 애플 분기 실적 발표, 인�
 [rac]: https://twitter.com/raccoonyy
 [ecl]: https://twitter.com/ecleya
 
+> Node.js 12 버전 릴리스 소식을 전했는데, 현재는 LTS 버전이 아닙니다. 12 버전은 2019년 4월 23일 Current로 릴리스되었으며 2019년 10월 22일 Active LTS로 릴리스될 예정입니다.
+
 * [stdout.fm : 오디오클립](https://audioclip.naver.com/channels/1807/)
 * [stdout.fm 정기 후원 - Patreon](https://www.patreon.com/stdoutfm)
 * [우분투(Ubuntu) 14.04 트러스티 타르 LTS 4월 30일 부로 지원 종료 \| 44bits.io](https://www.44bits.io/ko/post/news--ubuntu-14-04-end-of-life)
