@@ -11,6 +11,8 @@ contributors:
     uri: 'https://twitter.com/raccoonyy'
   - name: ecleya'
     uri: 'https://twitter.com/ecleya'
+twitter: "stdout.fm 28번째 로그에서는 다크룸, 애플 분기 실적 발표, 인터넷전문은행 사용성 등에 대해서 이야기를 나눴습니다. #stdoutfm"
+facebook: "stdout.fm 28번째 로그에서는 다크룸, 애플 분기 실적 발표, 인터넷전문은행 사용성 등에 대해서 이야기를 나눴습니다."
 duration: "01:27:55"
 enclosure:
   url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1556806900503.mp3
