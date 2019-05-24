@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stdout_031.log: Facebook F8 2019, 핀테크 업체의 금융 정보 스크래핑 \w outsider"
+title: "stdout_031.log: Facebook F8 2019, 핀테크 업체의 금융 정보 스크래핑 w/ outsider"
 permalink: /31/
 contributors:
   - name: 'seapy'
