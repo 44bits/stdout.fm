@@ -14,10 +14,10 @@ contributors:
 social:
   twitter: "stdout.fm 31번째 로그에서는 아웃사이더 님을 게스트로 모시고 Facebook F8 2019, 핀테크 업체의 금융 정보 스크래핑 등에 대해서 이야기를 나눴습니다. #stdoutfm"
   facebook: "stdout.fm 31번째 로그에서는 아웃사이더 님을 게스트로 모시고 Facebook F8 2019, 핀테크 업체의 금융 정보 스크래핑 등에 대해서 이야기를 나눴습니다."
-duration: "01:06:05"
+duration: "01:13:30"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1557900055694.mp3 
-  length: 95167816
+  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1558651794453.mp3
+  length: 105862778
 ---
 
 stdout.fm 31번째 로그에서는 아웃사이더 님을 게스트로 모시고 Facebook F8 2019, 핀테크 업체의 금융 정보 스크래핑 등에 대해서 이야기를 나눴습니다.
