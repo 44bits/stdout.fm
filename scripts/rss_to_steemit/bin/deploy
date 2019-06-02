@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+IMAGE_NAME="350831304703.dkr.ecr.us-west-2.amazonaws.com/stdoutfm/rss_to_steemit:$(git rev-parse --short HEAD)"
+docker build -t "${IMAGE_NAME}" .
+$(aws ecr get-login --no-include-email --region us-west-2)
+docker push "${IMAGE_NAME}"
