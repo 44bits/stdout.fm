@@ -21,7 +21,7 @@ class SteemitHelper
     tx.operations << {
       type: :comment,
       parent_author: '',
-      parent_permlink: '',
+      parent_permlink: tags.first,
       author: 'stdout',
       permlink: permlink(title), # required
       title: title[0...255],
