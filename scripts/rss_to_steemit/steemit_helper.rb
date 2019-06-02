@@ -21,10 +21,10 @@ class SteemitHelper
     tx.operations << {
       type: :comment,
       parent_author: '',
-      parent_permlink: tags.first, # required
+      parent_permlink: '',
       author: 'stdout',
       permlink: permlink(title), # required
-      title: title,
+      title: title[0...255],
       body: body,
       json_metadata: {
         tags: tags,
