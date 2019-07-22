@@ -58,7 +58,7 @@ stdout.fm 39번째 로그에서는 아웃사이더 님을 모시고 배드 블�
 * [Apache Lucene - Welcome to Apache Lucene](https://lucene.apache.org/)
 * [Elastic N.V. (ESTC) Stock Price, Quote, History & News](https://finance.yahoo.com/quote/ESTC/)
 * [MongoDB, Inc. (MDB) Stock Price, Quote, History & News](https://finance.yahoo.com/quote/MDB/)
-* https://opensource.org
+* [News \| Open Source Initiative](https://opensource.org/)
 * [The GNU General Public License v3.0 - GNU Project - Free Software Foundation](https://www.gnu.org/licenses/gpl-3.0.html)
 * [Red Hat Enterprise Linux - Wikipedia](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux)
 * [HashiCorp: Multi-Cloud Management, Security, Automation](https://www.hashicorp.com/)
