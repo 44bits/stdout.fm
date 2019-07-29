@@ -20,7 +20,7 @@ enclosure:
 
 stdout.fm 40번째 로그에서는 Tech야,놀자 행사 준비, 기술 블로그 운영, 야놀자 등에 대해서 이야기를 나눴습니다.
 
-* 게스트: [totuworld][tot]
+* 게스트: [@totuworld][tot]
 * 참가자: [@seapy][sea], [@nacyo_t][nac], [@raccoonyy][rac]
 
 [tot]: https://twitter.com/totuworld
