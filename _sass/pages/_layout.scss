@@ -74,6 +74,15 @@
 .donation {
   li {
     list-style: none;
+    img {
+        width: 70px;
+        height: 70px;
+      @include media-query($medium-screen) {
+        float: right;
+        width: 100px;
+        height: 100px;
+      }
+    }
   }
 }
 .nav-list {
