@@ -68,7 +68,7 @@ stdout.fm 42번째 로그에서는 인사이트 출판사 송우일 님을 모�
 * [(일본어) Ruby로 만드는 Ruby(전자책)](https://www.lambdanote.com/collections/frontpage/products/ruby-ruby)
 * [(일본어) ASCII.jp：Ruby로 배우는 Ruby(잡지 연재)](https://ascii.jp/elem/000/001/230/1230449/)
 
-## 중국 / 그 외
+## <a href="#" onclick="getPlayer().setCurrentTime(4512.0); return false;">중국 / 그 외</a>
 
 * [선전시 - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%EC%84%A0%EC%A0%84%EC%8B%9C)
 * [中 선전시내 모든 택시 연내 전기차로 바꾼다 \| 한경닷컴](https://www.hankyung.com/international/article/2018060836101)
