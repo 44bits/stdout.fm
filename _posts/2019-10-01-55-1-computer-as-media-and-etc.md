@@ -20,7 +20,7 @@ enclosure:
 
 stdout.fm 51-1번째 로그에서는 미디어로서의 컴퓨터, 프로그래밍 교육, 광고와 행동수정 등에 대해서 이야기를 나눴습니다.
 
-* 참가자: [@seapy][sea], [@nacyo_t][nac], [@raccoonyy][rac]
+* 참가자: [@nacyo_t][nac], [@raccoonyy][rac]
 * 게스트: [@erucype][eru]
 
 [nac]: https://twitter.com/nacyo_t
