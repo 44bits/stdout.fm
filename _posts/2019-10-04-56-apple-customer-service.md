@@ -34,6 +34,7 @@ stdout.fm 52번째 에러 로그에서는 Apple 고객 서비스 경험  등에 
 ## 쇼노트
 
 * [Cam Link 4K \| elgato.com](https://www.elgato.com/en/gaming/cam-link-4k)
+* [ゆん＠韓国 on Twitter: "삼성 서비스 센터에서 나와서 18년 8k TV (85Q900R)의 ... - Twitter](https://twitter.com/yun_seoul/status/1174524730579120128)
 * [공식 Apple 지원](https://support.apple.com/ko-kr)
 * [RubyKaigi 2018](https://rubykaigi.org/2018/)
 * [가로수길 - Apple Store - Apple (KR)](https://www.apple.com/kr/retail/garosugil/)
