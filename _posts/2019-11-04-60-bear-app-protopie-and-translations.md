@@ -17,7 +17,7 @@ social:
 duration: "01:18:23"
 enclosure:
   url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1572844416452.mp3
-  length: 98151747
+  length: 112880420
 ---
 
 stdout.fm 56번째 로그에서는 안도형 님과 함께 Bear 앱, 프로토파이, 리액트 관련 글 번역 등에 대해서 이야기를 나눴습니다.
