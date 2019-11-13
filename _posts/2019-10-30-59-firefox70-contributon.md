@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 55번째 로그에서는 아웃사이더 님과 함께 파이어폭스 70, 컨트리뷰톤, 오픈소스 기여 등에 대해서 이야기를 나눴습니다."
 duration: "01:08:09"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1572389960983.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1572389960983.mp3
   length: 98151747
 ---
 

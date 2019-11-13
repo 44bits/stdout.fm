@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 30번째 로그에서는 깃헙 레지스트리, 에저 클라우드 장애, 클라우드 서비스 일본 리전오픈 등에 대해서 이야기를 나눴습니다."
 duration: "01:06:05"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1557900055694.mp3 
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1557900055694.mp3 
   length: 95167816
 ---
 

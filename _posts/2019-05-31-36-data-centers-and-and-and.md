@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 32번째 로그에서는 국내외 데이터 센터 구축, 국민은행 OTP 유실 사건, 알프레드 4 출시 등에 대해서 이야기를 나눴습니다."
 duration: "01:11:23"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1559401496850.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1559401496850.mp3
   length: 102792208
 ---
 

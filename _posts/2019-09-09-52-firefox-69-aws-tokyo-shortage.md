@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 48번째 로그에서는 파이어폭스 69 릴리스, AWS 도쿄 리전 장애, 리눅스 exFAT 지원 등에 대해서 이야기를 나눴습니다."
 duration: "01:08:10"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1567600303321.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1567600303321.mp3
   length: 98171769
 ---
 

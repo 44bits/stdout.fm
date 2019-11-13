@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 38번째 로그에서는 RubyGems strong_password 해킹 사건, 소프트웨어 환멸감, Zoom MacOS 클라이언트 보안 문제 등에 대해서 이야기를 나눴습니다."
 duration: "00:53:30"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1563155856286.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1563155856286.mp3
   length: 77060474
 ---
 

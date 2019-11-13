@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 37번째 로그에서는 캡처보드, Cloudflare 장애, 44bits 테라폼 무크지 등에 대해서 이야기를 나눴습니다."
 duration: "01:00:06"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1562505119530.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1562505119530.mp3
   length: 86556875
 ---
 

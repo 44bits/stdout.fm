@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 39번째 로그에서는 아웃사이더 님을 모시고 배드 블러드, 클라우스 서비스 금지 오픈소스 라이센스 변경 등에 대해서 이야기를 나눴습니다."
 duration: "01:24:13"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1563462999251.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1563462999251.mp3
   length: 121284198
 ---
 

@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 35번째 로그에서는 @ecleya 님과 함께 Seocho.rb, Salck 상장, 데이터센터 등에 대해서 이야기를 나눴습니다."
 duration: "01:13:46"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1561217304599.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1561217304599.mp3
   length: 106237890
 ---
 

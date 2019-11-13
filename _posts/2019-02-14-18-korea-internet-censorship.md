@@ -12,7 +12,7 @@ contributors:
   - name: 'han'
 duration: "01:25:23"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1550157091033.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1550157091033.mp3
   length: 122959020
 ---
 

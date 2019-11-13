@@ -13,7 +13,7 @@ contributors:
     uri: 'https://twitter.com/scari_net'
 duration: "01:01:41"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1545379626311.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1545379626311.mp3
   length: 88841116
 ---
 

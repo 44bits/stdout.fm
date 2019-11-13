@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 51-2번째 로그에서는 미디어로서의 컴퓨터, 프로그래밍 교육, 광고와 행동수정 등에 대해서 이야기를 나눴습니다. 51-1편에서 이어집니다."
 duration: "01:04:31"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1569888744324.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1569888744324.mp3
   length: 92915555
 ---
 

@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 29번째 로그에서는 파이어폭스 애드온 비활성화 장애, GitHub/GitLab 저장소 삭제 공격, MS 빌드 2019 등에 대해서 이야기를 나눴습니다."
 duration: "01:05:09"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1557318197641.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1557318197641.mp3
   length: 93843744
 ---
 

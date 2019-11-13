@@ -13,7 +13,7 @@ contributors:
     uri: 'https://twitter.com/riseshia'
 duration: "01:17:01"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1543768077148.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1543768077148.mp3
   length: 110904821
 ---
 

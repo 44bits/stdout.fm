@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 53번째 로그에서는 가계부의 끝판왕 후잉 개발 이야기를 나눴습니다. 후잉 개발자 흥반장 님과 함께 합니다."
 duration: "01:18:29"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1570592736318.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1570592736318.mp3
   length: 113023989
 ---
 

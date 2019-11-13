@@ -11,7 +11,7 @@ contributors:
     uri: 'https://twitter.com/seapy'
 duration: "01:02:00"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1544681020862.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1544681020862.mp3
   length: 89283488
 ---
 

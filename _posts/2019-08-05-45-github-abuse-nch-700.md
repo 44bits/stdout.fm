@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 41번째 로그에서는 Slack 장애, GitHub 스타 어뷰징, Bose NCH 700 등에 대해서 이야기를 나눴습니다."
 duration: "01:07:28"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1564843930965.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1564843930965.mp3
   length: 97176010
 ---
 

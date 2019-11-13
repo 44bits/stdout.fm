@@ -13,7 +13,7 @@ contributors:
     uri: 'https://twitter.com/asbubam'
 duration: "00:04:12"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1549465109840.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1549465109840.mp3
   length: 6063982
 ---
 

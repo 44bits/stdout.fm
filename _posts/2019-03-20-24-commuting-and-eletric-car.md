@@ -9,7 +9,7 @@ contributors:
     uri: 'https://twitter.com/raccoonyy'
 duration: "00:41:30"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1553091458215.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1553091458215.mp3
   length: 59759292
 ---
 

@@ -11,7 +11,7 @@ contributors:
     uri: 'https://twitter.com/ecleya'
 duration: "00:40:29"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1554902622183.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1554902622183.mp3
   length: 58296698
 ---
 

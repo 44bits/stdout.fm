@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 54번째 로그에서는 AWS 공인 자격증, 파이썬 3.8 릴리스, 4분코딩 등에 대해서 이야기를 나눴습니다."
 duration: "01:02:10"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1571635675205.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1571635675205.mp3
   length: 89533847
 ---
 

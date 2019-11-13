@@ -16,7 +16,7 @@ social:
   facebook: "stdout.fm 57번째 로그에서는 만나통신사: 중국 IT 비지니스 여행, 구글 클라우드 서밋 참가 후기 등에 대해서 이야기를 나눴습니다."
 duration: "01:03:47"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1573435531430.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1573435531430.mp3
   length: 91849759
 ---
 

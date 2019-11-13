@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 43번째 로그에서는 갤럭시 노트 10, 테슬라 모델 3, Go 언어 입문, 테라폼 삽질 공유회 등에 대해서 이야기를 나눴습니다."
 duration: "01:29:46"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1566177020526.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1566177020526.mp3
   length: 129290512
 ---
 

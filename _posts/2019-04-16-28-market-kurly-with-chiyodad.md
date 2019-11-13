@@ -13,7 +13,7 @@ contributors:
     uri: 'https://twitter.com/chiyodad'
 duration: "01:38:22"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1555693616650.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1555693616650.mp3
   length: 141665038
 ---
 

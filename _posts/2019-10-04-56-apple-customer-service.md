@@ -16,7 +16,7 @@ social:
   facebook: "stdout.fm 52번째 에러 로그에서는 Apple 고객 서비스 경험 등에 대해서 이야기를 나눴습니다."
 duration: "00:57:47"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1570167643205.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1570167643205.mp3
   length: 83251921
 ---
 

@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 40번째 로그에서는 Tech야,놀자 행사 준비, 기술 블로그 운영, 야놀자에 대해서 이야기를 나눴습니다."
 duration: "01:19:32"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1564212596372.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1564212596372.mp3
   length: 114554274
 ---
 

@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 50번째 로그에서는 The Cloud 100, 기기 간 동기화 앱 Syncthink, Notion 학생 무료 플랜 공개 투자 등에 대해서 이야기를 나눴습니다."
 duration: "00:43:14"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1569220074851.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1569220074851.mp3
   length: 83026014
 ---
 

@@ -14,7 +14,7 @@ social:
   facebook: "stdout.fm 49번째 로그에서는 새로운 녹음 장비, 분더리스트 재인수설, 당근마켓 400억 투자 등에 대해서 이야기를 나눴습니다."
 duration: "00:52:10"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1568554406491.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1568554406491.mp3
   length: 98698570
 ---
 

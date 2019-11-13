@@ -12,7 +12,7 @@ social:
   facebook: "stdout.fm 42번째 로그에서는 인사이트 출판사 송우일 님을 모시고 IT 출판사, 전자책, IT 도서 출간 등에 대해서 이야기를 나눴습니다."
 duration: "01:34:36"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1565578714486.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1565578714486.mp3
   length: 136244388
 ---
 

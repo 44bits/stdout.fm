@@ -16,7 +16,7 @@ social:
   facebook: "stdout.fm 46번째 에러 로그에서는 복식부기 가계부 후잉에 대해서 이야기를 나눴습니다."
 duration: "00:55:10"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1567643404488.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1567643404488.mp3
   length: 79459124
 ---
 

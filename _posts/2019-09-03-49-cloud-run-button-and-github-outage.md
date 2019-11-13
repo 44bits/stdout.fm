@@ -12,7 +12,7 @@ social:
   facebook: "stdout.fm 45번째 로그에서는 서비쿠라 님 블로그 수익, 22일 깃헙 장애, Nand2Tetris, 클라우드 런 버튼 등에 대해서 이야기를 나눴습니다."
 duration: "01:04:18"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1567352402790.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1567352402790.mp3
   length: 62668921
 ---
 

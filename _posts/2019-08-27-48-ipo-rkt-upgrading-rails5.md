@@ -12,7 +12,7 @@ social:
   facebook: "stdout.fm 44번째 로그에서는 Form S-1, 컨테이너 런타임 rkt 아카이브, 슈프리마 개인정보 유출, 레일스5 업그레이드 등에 대해서 이야기를 나눴습니다."
 duration: "00:43:30"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1566828450742.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1566828450742.mp3
   length: 62668921
 ---
 

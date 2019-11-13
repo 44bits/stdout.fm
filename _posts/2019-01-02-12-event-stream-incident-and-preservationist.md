@@ -13,7 +13,7 @@ contributors:
     uri: 'https://twitter.com/outsideris'
 duration: "01:03:37"
 enclosure:
-  url: https://podty.gslb.toastoven.net/meta/episode_audio/513940/188843_1546485904003.mp3
+  url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1546485904003.mp3
   length: 91615388
 ---
 
