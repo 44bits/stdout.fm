@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stdout_057.log: 만나통신사: 중국 IT 비지니스 여행, 구글 클라우드 서밋 참가 후기"
+title: "stdout_057.log: 만나통신사: 중국 IT 비즈니스 여행, 구글 클라우드 서밋 참가 후기"
 permalink: /57/
 contributors:
   - name: 'subicura'
@@ -12,15 +12,15 @@ contributors:
   - name: 'raccoonyy'
     uri: 'https://twitter.com/raccoonyy'
 social:
-  twitter: "stdout.fm 57번째 로그에서는 만나통신사: 중국 IT 비지니스 여행, 구글 클라우드 서밋 참가 후기 등에 대해서 이야기를 나눴습니다."
-  facebook: "stdout.fm 57번째 로그에서는 만나통신사: 중국 IT 비지니스 여행, 구글 클라우드 서밋 참가 후기 등에 대해서 이야기를 나눴습니다."
+  twitter: "stdout.fm 57번째 로그에서는 만나통신사: 중국 IT 비즈니스 여행, 구글 클라우드 서밋 참가 후기 등에 대해서 이야기를 나눴습니다."
+  facebook: "stdout.fm 57번째 로그에서는 만나통신사: 중국 IT 비즈니스 여행, 구글 클라우드 서밋 참가 후기 등에 대해서 이야기를 나눴습니다."
 duration: "01:03:47"
 enclosure:
   url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1573435531430.mp3
   length: 91849759
 ---
 
-stdout.fm 57번째 로그에서는 만나통신사: 중국 IT 비지니스 여행, 구글 클라우드 서밋 참가 후기 등에 대해서 이야기를 나눴습니다.
+stdout.fm 57번째 로그에서는 만나통신사: 중국 IT 비즈니스 여행, 구글 클라우드 서밋 참가 후기 등에 대해서 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoonyy][rac], [@seapy][seapy]
 * 게스트: [@subicura][sub]
