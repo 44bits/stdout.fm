@@ -20,6 +20,8 @@ enclosure:
   length: 91849759
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_057-log.png)
+
 stdout.fm 57번째 로그에서는 만나통신사: 중국 IT 비즈니스 여행, 구글 클라우드 서밋 참가 후기 등에 대해서 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoonyy][rac], [@seapy][seapy]

@@ -20,16 +20,17 @@ enclosure:
   length: 112880420
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_056-log.png)
+
 stdout.fm 56번째 로그에서는 안도형 님과 함께 Bear 앱, 프로토파이, 리액트 관련 글 번역 등에 대해서 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoonyy][rac], [@seapy][seapy]
 * 게스트: [@adhrinae][rinae]
 
-
 [rinae]: https://twitter.com/adhrinae
 [nac]: https://twitter.com/nacyo_t
 [rac]: https://twitter.com/raccoonyy
-[sea]: https://twitter.com/seapy
+[seapy]: https://twitter.com/seapy
 
 
 ## 쇼노트

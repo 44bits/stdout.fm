@@ -18,6 +18,8 @@ enclosure:
   length: 116864
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_058-log.png)
+
 stdout.fm 58번째 로그에서는 맥북프로 16인치(와 ESC 키) 출시, VS Code 온라인, 깃헙 언어 사용 리포트 등에 대해서 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoonyy][rac], [@seapy][seapy]
