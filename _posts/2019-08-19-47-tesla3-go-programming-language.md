@@ -28,12 +28,12 @@ stdout.fm 43번째 로그에서는 갤럭시 노트 10, 테슬라 모델 3, Go �
 
 ## 주제별 바로 듣기
 
-* <a href="#" onclick="jumpPlayer(20.0); return false;">갤럭시 노트 10(Galaxy Note 10) 예약</a>
-* <a href="#" onclick="jumpPlayer(780.0); return false;">테슬라 모델 3(Tesla Model 3) 한국 출시</a>
-* <a href="#" onclick="jumpPlayer(1650.0); return false;">정부24, 엑티브X 없이 사용 가능</a>
-* <a href="#" onclick="jumpPlayer(3120.0); return false;">Go 프로그래밍 언어 입문</a>
-* <a href="#" onclick="jumpPlayer(4145.0); return false;">테라폼 삽질 공유회 후기 / ConfConf 2016</a>
-* <a href="#" onclick="jumpPlayer(4926.0); return false;">구글 검색, 팟캐스트 검색 기능 추가</a>
+* <a href="#" onclick="jumpPlayer(20.0); return false;">00:20 갤럭시 노트 10(Galaxy Note 10) 예약</a>
+* <a href="#" onclick="jumpPlayer(780.0); return false;">13:00 테슬라 모델 3(Tesla Model 3) 한국 출시</a>
+* <a href="#" onclick="jumpPlayer(1650.0); return false;">27:30 정부24, 엑티브X 없이 사용 가능</a>
+* <a href="#" onclick="jumpPlayer(3120.0); return false;">52:00 Go 프로그래밍 언어 입문</a>
+* <a href="#" onclick="jumpPlayer(4145.0); return false;">69:05 테라폼 삽질 공유회 후기 / ConfConf 2016</a>
+* <a href="#" onclick="jumpPlayer(4926.0); return false;">82:06 구글 검색, 팟캐스트 검색 기능 추가</a>
 
 ## 갤럭시 노트 10(Galaxy Note 10) 예약
 
