@@ -20,6 +20,8 @@ enclosure:
   length: 96664649
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_060-log.png)
+
 stdout.fm 60번째 로그에서는 GitHub Universe 2019, Kubecon 2019 참석기 등에 대해서 이야기를 나눴습니다.
 
 * 참가자: [@raccoonyy][rac], [@outsideris][out], [@anarcher][ana], [@subicura][sub]
