@@ -24,6 +24,8 @@ enclosure:
   length: 129169543
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_061-log.png)
+
 stdout.fm 61번째 로그에서는 라스베가스에서 re:Invent 2019 소식을 전합니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoonyy][rac], [@seapy][seapy]
