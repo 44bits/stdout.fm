@@ -18,6 +18,8 @@ enclosure:
   length: 89737602
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_062-log.png)
+
 stdout.fm 62번째 로그에서는 AWS re:Invent 2019 후기, 컴퓨터 히스토리 뮤지움, 맥 프로 출시 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoonyy][rac], [@seapy][seapy]
