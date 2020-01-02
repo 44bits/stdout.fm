@@ -81,3 +81,4 @@ stdout.fm 63번째 로그에서는 44bits 밋업 후기, 당근마켓 플레이 
 ## 취업규칙
 * [취업규칙이란 - 고용노동부](https://www.moel.go.kr/common/downloadFile.do?file_seq=21171031983&bbs_seq=1397812342074&bbs_id=LOCAL5)
 * [표준 취업규칙 - 정책자료>정책자료실](http://www.moel.go.kr/policy/policydata/view.do?bbs_seq=20191000413)
+* [신의 경제사 특강#8-6: 국가는 어쩌다 태어났는가? (f.김두얼)](http://www.podbbang.com/ch/15781?e=22681641)
