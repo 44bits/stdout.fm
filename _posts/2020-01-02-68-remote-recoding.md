@@ -18,6 +18,8 @@ enclosure:
   length: 95235855
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_064-log.png)
+
 stdout.fm 64번째 로그에서는 원격 녹음, 우아한형제들 인수, 루비 2.7 릴리스, JapanTaxi 등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoonyy][rac], [@seapy][seapy]

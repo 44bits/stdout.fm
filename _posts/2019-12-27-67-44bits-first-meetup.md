@@ -18,6 +18,8 @@ enclosure:
   length: 95737406
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_063-log.png)
+
 stdout.fm 63번째 로그에서는 44bits 밋업 후기, 당근마켓 플레이 스토어 베스트앱 선정, 네이버 코스피 3위 등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoonyy][rac], [@seapy][seapy], [@ecleya][ecl]
