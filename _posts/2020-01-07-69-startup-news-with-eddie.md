@@ -20,6 +20,8 @@ enclosure:
   length: 125180959
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_065-log.png)
+
 스탠다드아웃 65번째 로그에서는 이바닥늬우스 에디와 함께  타다 금지법, 토스 인터넷 은행 인가, 모빌리티 등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoonyy][rac], [@seapy][sea], 에디
