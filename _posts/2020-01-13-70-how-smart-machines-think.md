@@ -20,18 +20,19 @@ enclosure:
 
 ![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_066-log.png)
 
-스탠다드아웃 66번째 로그에서는 이수겸 님을 모시고 로블록스, 기계는 어떻게 생각하는가, 실리콘밸리 개발자 등에 대해 이야기를 나눴습니다.
+스탠다드아웃 66번째 로그에서는 이수겸(@keniallee) 님을 모시고 로블록스, 기계는 어떻게 생각하는가, 실리콘밸리 개발자 등에 대해 이야기를 나눴습니다.
 
 이지스퍼블리싱의 후원으로 도서 나눔 이벤트를 진행합니다. 아래 트윗을 리트윗해주시거나, 아래 페이스북 게시글을 공유하고 댓글을 남겨주신 분 중에 5분을 선정해 '기계는 어떻게 생각하는가?'를 보내드립니다.
 
 * 트위터: [https://twitter.com/stdoutfm/status/1216619861943603200](https://twitter.com/stdoutfm/status/1216619861943603200)
 * 페이스북: [https://www.facebook.com/stdout.fm/posts/1799748413500991](https://www.facebook.com/stdout.fm/posts/1799748413500991)
 * 도서 링크: [기계는 어떻게 생각하는가?](http://www.easyspub.co.kr/20_Menu/BookView/B010/340/PUB)
-* 참가자: [@nacyo_t][nac], [@raccoonyy][rac], [@seapy][sea], 이수겸
+* 참가자: [@nacyo_t][nac], [@raccoonyy][rac], [@seapy][sea], [이수겸][keniallee]
 
 [nac]: https://twitter.com/nacyo_t
 [rac]: https://twitter.com/raccoonyy
 [sea]: https://twitter.com/seapy
+[keniallee]: https://twitter.com/keniallee
 
 * [개발자 팟캐스트 stdout.fm](https://stdout.fm/)
 * 정기 후원 - [stdout.fm are creating 프로그래머들의 팟캐스트 \| Patreon](https://www.patreon.com/stdoutfm)
