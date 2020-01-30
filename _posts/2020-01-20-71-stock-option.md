@@ -30,7 +30,7 @@ enclosure:
 [sea]: https://twitter.com/seapy
 
 ## 주제별 바로 듣기
-* <a href="#" onclick="jumpPlayer(0.0); return false;">00:00:00 66번째 에피소드 시작</a>
+* <a href="#" onclick="jumpPlayer(0.0); return false;">00:00:00 67번째 에피소드 시작</a>
 * <a href="#" onclick="jumpPlayer(58.0); return false;">00:00:58 RDS 인증서 갱신</a>
 * <a href="#" onclick="jumpPlayer(570.0); return false;">00:09:30 파이썬 2.7 지원 종료 </a>
 * <a href="#" onclick="jumpPlayer(960.0); return false;">00:16:00 TIOBE 프로그래밍 언어 순위</a>
