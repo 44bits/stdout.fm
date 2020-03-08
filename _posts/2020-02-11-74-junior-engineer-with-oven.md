@@ -18,6 +18,8 @@ enclosure:
   length: 101540979
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_070-log.png)
+
 스탠다드아웃 70번째 로그에서는 ODK 주니어 개발자 오엔 님을 모시고 주니어 개발자에 대한 이야기를 나눴습니다.
 
 * 게스트: 오엔

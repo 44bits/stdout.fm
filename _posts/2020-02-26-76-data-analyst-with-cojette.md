@@ -20,6 +20,8 @@ enclosure:
   length: 118544812
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_072-log.png)
+
 스탠다드아웃 72번째 로그에서는 꼬젯 님을 모시고 데이터 분석, CCPA, 팩트풀니스(한스 로슬링) 대한 이야기를 나눴습니다.
 
 * 게스트: [@mazycat][maz](꼬젯 님)

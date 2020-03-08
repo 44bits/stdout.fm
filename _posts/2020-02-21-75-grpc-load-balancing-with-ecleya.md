@@ -20,6 +20,8 @@ enclosure:
   length: 97791258
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_071-log.png)
+
 스탠다드아웃 71번째 로그에서는 팟캐스트 녹음 환경, 아마존닷컴 반품 경험, gRPC 로드 밸런싱 대한 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoonyy][rac], [@seapy][sea], [@ecleya][ecl]

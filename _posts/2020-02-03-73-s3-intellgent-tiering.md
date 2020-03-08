@@ -18,6 +18,8 @@ enclosure:
   length: 72740038
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_069-log.png)
+
 스탠다드아웃 69번째 로그에서는 S3 인텔리전트 티어링, RDS와 DMS 연동 삽질기, 클라우드프론트 지연 이슈 등에 대해 이야기를 나눴습니다.
 
 * 게스트: [@ecleya][ecl]
