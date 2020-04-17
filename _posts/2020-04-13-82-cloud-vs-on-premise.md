@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "스탠다드아웃_078.log: Meetup 위위크에서 독립, AWS 람다 삽질기, 클라우드 vs. 온프레미스"
+title: "스탠다드아웃_078.log: Meetup 위워크에서 독립, AWS 람다 삽질기, 클라우드 vs. 온프레미스"
 permalink: /78/
 contributors:
   - name: 'raccoonyy'
@@ -10,8 +10,8 @@ contributors:
   - name: 'seapy'
     uri: 'https://twitter.com/seapy'
 social:
-  twitter: "스탠다드아웃 78번째 로그에서는 Meetup 위위크에서 독립, AWS 람다 삽질기, 클라우드 vs. 온프레미스 등에 대해 이야기를 나눴습니다."
-  facebook: "스탠다드아웃 78번째 로그에서는 Meetup 위위크에서 독립, AWS 람다 삽질기, 클라우드 vs. 온프레미스 등에 대해 이야기를 나눴습니다."
+  twitter: "스탠다드아웃 78번째 로그에서는 Meetup 위워크에서 독립, AWS 람다 삽질기, 클라우드 vs. 온프레미스 등에 대해 이야기를 나눴습니다."
+  facebook: "스탠다드아웃 78번째 로그에서는 Meetup 위워크에서 독립, AWS 람다 삽질기, 클라우드 vs. 온프레미스 등에 대해 이야기를 나눴습니다."
 duration: "00:57:43"
 enclosure:
   url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1586737741549.mp3
@@ -20,7 +20,7 @@ enclosure:
 
 ![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_078-log.png)
 
-스탠다드아웃 78번째 로그에서는 Meetup 위위크에서 독립, AWS 람다 삽질기, 클라우드 vs. 온프레미스 등에 대해 이야기를 나눴습니다.
+스탠다드아웃 78번째 로그에서는 Meetup 위워크에서 독립, AWS 람다 삽질기, 클라우드 vs. 온프레미스 등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoony][rac], [@seapy][sea]
 * 정기 후원 - [stdout.fm are creating 프로그래머들의 팟캐스트 \| Patreon](https://www.patreon.com/stdoutfm)
