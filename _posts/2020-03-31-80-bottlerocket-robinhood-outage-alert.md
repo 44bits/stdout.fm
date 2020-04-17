@@ -18,6 +18,8 @@ enclosure:
   length: 92041602
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_076-log.png)
+
 스탠다드아웃 76번째 로그에서는 컨테이너 OS 보틀로켓, 재난 경보 문자, 삼성의 탈AWS설 등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@seapy][sea], [@raccoony][rac]

@@ -18,6 +18,8 @@ enclosure:
   length: 83127160
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_078-log.png)
+
 스탠다드아웃 78번째 로그에서는 Meetup 위위크에서 독립, AWS 람다 삽질기, 클라우드 vs. 온프레미스 등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoony][rac], [@seapy][sea]

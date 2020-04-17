@@ -18,6 +18,8 @@ enclosure:
   length: 90284920
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_075-log.png)
+
 스탠다드아웃 75번째 로그에서는 당근마켓 개발자 에릭을 모시고 미국 워싱턴주 킹카운티, 공적 마스크 재고 현황, Go 입문  등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@seapy][sea], [@eric][eri]

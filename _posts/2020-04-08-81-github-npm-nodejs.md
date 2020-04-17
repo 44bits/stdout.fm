@@ -18,6 +18,8 @@ enclosure:
   length: 111867914
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_077-log.png)
+
 스탠다드아웃 77번째 로그에서는 아웃사이더 님을 모시고 GitHub의 NPM 인수, 소스코드 동기화, 웹팩 5 릴리스 등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac],[@raccoony][rac]

@@ -18,6 +18,8 @@ enclosure:
   length: 66056244
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_074-log.png)
+
 스탠다드아웃 74번째 로그에서는 연이은 컨퍼런스 취소, MySQL 버전 업 그리고 한국에서 시작된 유명한 오픈소스 등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoonyy][rac], [@ecleya][ecl]
