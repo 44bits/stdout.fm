@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "스탠다드아웃_079.log: 개발자를 위한 iMac, 개발 이슈 관리 도구, JXA(Javascript for Automation)"
+title: "스탠다드아웃_079.log: 개발자를 위한 iMac, 개발 이슈 관리 도구, JXA(JavaScript for Automation)"
 permalink: /79/
 contributors:
   - name: 'raccoonyy'
@@ -10,15 +10,15 @@ contributors:
   - name: ecleya'
     uri: 'https://twitter.com/ecleya'
 social:
-  twitter: "스탠다드아웃 79번째 로그에서는 개발자를 위한 iMac, 개발 이슈 관리 도구, JXA(Javascript for Automation) 등에 대해 이야기를 나눴습니다."
-  facebook: "스탠다드아웃 79번째 로그에서는 개발자를 위한 iMac, 개발 이슈 관리 도구, JXA(Javascript for Automation) 등에 대해 이야기를 나눴습니다."
+  twitter: "스탠다드아웃 79번째 로그에서는 개발자를 위한 iMac, 개발 이슈 관리 도구, JXA(JavaScript for Automation) 등에 대해 이야기를 나눴습니다."
+  facebook: "스탠다드아웃 79번째 로그에서는 개발자를 위한 iMac, 개발 이슈 관리 도구, JXA(JavaScript for Automation) 등에 대해 이야기를 나눴습니다."
 duration: "01:03:44"
 enclosure:
   url: https://cdn-cf.podty.me/meta/episode_audio/513940/188843_1587633365794.mp3
   length: 91801485
 ---
 
-스탠다드아웃 79번째 로그에서는 개발자를 위한 iMac, 개발 이슈 관리 도구, JXA(Javascript for Automation) 등에 대해 이야기를 나눴습니다.
+스탠다드아웃 79번째 로그에서는 개발자를 위한 iMac, 개발 이슈 관리 도구, JXA(JavaScript for Automation) 등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoony][rac], [@ecleya][ecl]
 * 정기 후원 - [stdout.fm are creating 프로그래머들의 팟캐스트 \| Patreon](https://www.patreon.com/stdoutfm)
