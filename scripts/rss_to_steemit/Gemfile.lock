@@ -38,7 +38,7 @@ GEM
       json (~> 2.0, >= 2.0.2)
       logging (~> 2.2, >= 2.2.0)
       net-http-persistent (>= 2.5.2)
-    rake (12.3.2)
+    rake (13.0.1)
     scrypt (3.0.6)
       ffi-compiler (>= 1.0, < 2.0)
     thread_safe (0.3.6)
