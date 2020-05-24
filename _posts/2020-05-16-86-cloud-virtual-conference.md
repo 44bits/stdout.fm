@@ -20,6 +20,8 @@ enclosure:
   length: 76497282
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_082-log.png)
+
 스탠다드아웃 82번째 로그에서는 화상회의 앱, 클라우드 서비스 성장, 버추얼 컨퍼런스, AWS 엘리멘탈 링크 등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoony][rac], [@seapy][sea], [@ecleya][ecl]

@@ -18,6 +18,8 @@ enclosure:
   length: 109809047
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_080-log.png)
+
 스탠다드아웃 80번째 로그에서는 팬데믹 이후의 업무 환경, 아이폰 SE 2세대, 베어 에디터 2.0 알파 등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoony][rac], [@ecleya][ecl]

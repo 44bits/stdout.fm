@@ -20,6 +20,8 @@ enclosure:
   length: 100597436
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_083-log.png)
+
 스탠다드아웃 83번째 로그에서는 Slack 장애, Zoom의 Keybase 인수, 새로운 맥북 13인치, Github 코드스페이스 공개 등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoony][rac], [@seapy][sea], [@ecleya][ecl]

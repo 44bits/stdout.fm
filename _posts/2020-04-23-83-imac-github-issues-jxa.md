@@ -18,6 +18,8 @@ enclosure:
   length: 91801485
 ---
 
+![](https://github.com/44bits/stdout.fm/raw/master/_posts/images/stdout_079-log.png)
+
 스탠다드아웃 79번째 로그에서는 개발자를 위한 iMac, 개발 이슈 관리 도구, JXA(JavaScript for Automation) 등에 대해 이야기를 나눴습니다.
 
 * 참가자: [@nacyo_t][nac], [@raccoony][rac], [@seapy][sea]
