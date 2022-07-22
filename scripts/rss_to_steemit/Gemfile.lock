@@ -42,7 +42,7 @@ GEM
     scrypt (3.0.6)
       ffi-compiler (>= 1.0, < 2.0)
     thread_safe (0.3.6)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
 
 PLATFORMS
